@@ -1,3 +1,8 @@
 {
-  "name": "memuller/MultilingualPressGTranslate"
+  "name": "memuller/MultilingualPressGTranslate",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+  
 }
